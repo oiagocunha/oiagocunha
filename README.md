@@ -41,10 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/oiagocunha/oiagocunha/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Redes Sociais</h2>
 
 ###
