@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">• Estudante Desenvolvimento Front-End (JavaScript, React, PrimeReact | Bootstrap, React-Bootstrap)<br>• Estou em busca de primeira experiência na área de Desenvolvimento Front-End</p>
+<p align="left">• Olá caro visitante, me chao Iago, sou um Programador Frontend em busca de sua primeira experiência na área de Desenvolvimento.<br>• Possuo experiência frontend e uma breve experiencia em backend usando node.js:
+
+</p>
 
 ###
 
