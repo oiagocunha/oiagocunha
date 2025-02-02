@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• Olá caro visitante, me chao Iago, sou um Programador Frontend em busca de sua primeira experiência na área de Desenvolvimento.<br>• Possuo experiência frontend e uma breve experiencia em backend usando node.js.
+<p align="left">• Olá caro visitante, me chao Iago, sou um Programador Frontend em busca de sua primeira experiência na área de Desenvolvimento.<br>• Possuo experiência frontend e uma breve experiencia em backend usando node.js.<br>• Estou me aprimorando para se tornar FullStack.
 
 </p>
 
