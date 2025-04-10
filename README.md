@@ -3,11 +3,11 @@
 ###
 
 <p align="left">
-• 🎯 Fullstack dev in training | ADS student  
-💼 Currently building QR Code tools + automation flows (n8n)  
-💻 Stack: JS | TS | React | Node.js | PHP | PostgreSQL  
-🛠️ Git, Docker, REST APIs  
-🚀 Always learning & building  
+• 🎯 Fullstack dev in training | ADS student<br>
+💼 Currently building QR Code tools + automation flows (n8n)<br>
+💻 Stack: JS | TS | React | Node.js | PHP | PostgreSQL<br>
+🛠️ Git, Docker, REST APIs<br>
+🚀 Always learning & building<br>
 </p>
 
 ###
