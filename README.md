@@ -2,12 +2,7 @@
 
 ###
 
-<p align="left">
-• 🎯 Fullstack dev in training | ADS student<br>
-💼 Currently building QR Code tools + automation flows (n8n)<br>
-💻 Stack: JS | TS | React | Node.js | PHP | PostgreSQL<br>
-🛠️ Git, Docker, REST APIs<br>
-🚀 Always learning & building<br>
+<p align="left">Desenvolvedor fullstack em formação, cursando Análise e Desenvolvimento de Sistemas. Atualmente estagiando na área de tecnologia, atuando com desenvolvimento web, automações e consumo de APIs.
 </p>
 
 ###
