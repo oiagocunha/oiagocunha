@@ -2,8 +2,12 @@
 
 ###
 
-<p align="left">• Olá caro visitante, me chao Iago, sou um Programador Frontend em busca de sua primeira experiência na área de Desenvolvimento.<br>• Possuo experiência frontend e uma breve experiencia em backend usando node.js.<br>• Estou me aprimorando para se tornar FullStack.
-
+<p align="left">
+• 🎯 Fullstack dev in training | ADS student  
+💼 Currently building QR Code tools + automation flows (n8n)  
+💻 Stack: JS | TS | React | Node.js | PHP | PostgreSQL  
+🛠️ Git, Docker, REST APIs  
+🚀 Always learning & building  
 </p>
 
 ###
