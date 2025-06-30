@@ -29,14 +29,14 @@ Sou Desenvolvedor Full Stack com foco em **front-end moderno** usando **React, T
 
 <h2 align="left">📂 Projetos em Destaque</h2>
 
-- 🔗 [CRUD FullStack com React + MongoDB](https://github.com/oiagocunha/crud-fullstack)  
-  Front moderno com Tailwind, back com Express + Prisma + MongoDB Atlas.
+- 🔗 [Cadastro de Produtos (HTML, CSS, JS)](https://github.com/oiagocunha/Cadastro_Produtos)  
+  Interface simples e funcional para cadastro de produtos. Utiliza manipulação direta do DOM, formulários e armazenamento local via `localStorage`.
 
-- ⚙️ [Automação de Tarefas com n8n + Asana](https://github.com/oiagocunha/n8n-asana-workflow)  
-  Workflow que recebe e-mails, extrai dados com regex, cria tarefas no Asana e evita duplicidade.
+- 📱 [Link para QR Code (React + Vite)](https://github.com/oiagocunha/link-to-qrCode)  
+  Aplicação em React moderna e performática. Gera QR Codes a partir de links usando `qrcode.react`, converte para imagem com `html2canvas`, e estiliza com Bootstrap Icons.
 
-- 🛰️ [Geolocalização com Telegram Bot](https://github.com/oiagocunha/location-tracker-bot)  
-  Backend que recebe coordenadas via API e envia para o Telegram em tempo real.
+- 🔐 [Sistema de Permissões (Python)](https://github.com/oiagocunha/sistema_permissoes)  
+  Simulação de controle de permissões com lógica condicional, manipulação de dados em dicionários e fluxo básico em Python.
 
 ---
 
