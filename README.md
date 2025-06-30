@@ -1,80 +1,59 @@
-<h2 align="left">Sobre Mim</h2>
+<h2 align="left">👨‍💻 Sobre mim</h2>
 
-###
+Sou Desenvolvedor Full Stack com foco em **front-end moderno** usando **React, TypeScript e TailwindCSS**, integração real com **APIs REST** (Node.js + Express), banco de dados **MongoDB** e automações com **n8n**.
 
-<p align="left">Desenvolvedor fullstack em formação, cursando Análise e Desenvolvimento de Sistemas. Atualmente estagiando na área de tecnologia, atuando com desenvolvimento web, automações e consumo de APIs.
-</p>
+🚀 Atualmente atuo como estagiário na FIEC, desenvolvendo soluções internas, automatizando fluxos com precisão (zero retrabalho manual) e ajudando a digitalizar processos reais da empresa.
 
-###
+🧠 Estudo constante com foco em:
+- Performance, SEO e testes
+- Boas práticas e deploy
+- Webpack, Babel, Docker e CI/CD
 
-<h2 align="left">Tecnologias</h2>
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
-
-###
-
-<h2 align="left">Estatísticas</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oiagocunha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oiagocunha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=oiagocunha&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oiagocunha&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Redes Sociais</h2>
-
-###
+<h2 align="left">🛠️ Tecnologias que uso no dia a dia</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/oiagocunha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/oiagocunha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/409777129580920844" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="dev.iagocunha@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" title="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" />
 </div>
 
-###
+---
+
+<h2 align="left">📂 Projetos em Destaque</h2>
+
+- 🔗 [CRUD FullStack com React + MongoDB](https://github.com/oiagocunha/crud-fullstack)  
+  Front moderno com Tailwind, back com Express + Prisma + MongoDB Atlas.
+
+- ⚙️ [Automação de Tarefas com n8n + Asana](https://github.com/oiagocunha/n8n-asana-workflow)  
+  Workflow que recebe e-mails, extrai dados com regex, cria tarefas no Asana e evita duplicidade.
+
+- 🛰️ [Geolocalização com Telegram Bot](https://github.com/oiagocunha/location-tracker-bot)  
+  Backend que recebe coordenadas via API e envia para o Telegram em tempo real.
+
+---
+
+<h2 align="left">📈 GitHub Stats</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=oiagocunha&show_icons=true&theme=radical&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiagocunha&layout=compact&theme=radical" height="150" />
+</div>
+
+---
+
+<h2 align="left">📫 Como me encontrar</h2>
+
+- [LinkedIn](https://www.linkedin.com/in/oiagocunha/)
+- dev.iagocunha@gmail.com
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/oiagocunha/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/oiagocunha/count.svg?" />
 </div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://pa1.narvii.com/6180/07738a6d31e4a93bcb0826890dd5920ed07422ad_hq.gif"  />
-</div>
-
-###
