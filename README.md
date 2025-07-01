@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2e4e,100:5b86e5&height=160&section=header&text=Oiago%20Cunha&fontAlign=50&fontAlignY=70&fontColor=fff&desc=Fullstack%20Developer%20|%20Apaixonado%20por%20café%20e%20Dragon%20Ball&descAlign=50&descAlignY=85" width="100%" alt="banner oiagocunha" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2e4e,100:5b86e5&height=160&section=header&text=Iago%20Cunha&fontAlign=50&fontAlignY=70&fontColor=fff&desc=Fullstack%20Developer%20|%20Apaixonado%20por%20café%20e%20Dragon%20Ball&descAlign=50&descAlignY=85" width="100%" alt="banner oiagocunha" />
 
 <h2 align="left">👨‍💻 Sobre mim | About me</h2>
 
