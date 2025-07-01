@@ -63,9 +63,9 @@
   <i>PT-BR:</i> Gera QR Codes a partir de links com <code>qrcode.react</code>, converte para imagem com <code>html2canvas</code> e estiliza com Bootstrap Icons.<br>
   <i>EN:</i> Generates QR Codes from links using <code>qrcode.react</code>, converts to image with <code>html2canvas</code>, styled with Bootstrap Icons.
 
-- 🔐 [Sistema de Permissões (Python)](https://github.com/oiagocunha/sistema_permissoes)  
-  <i>PT-BR:</i> Simulação de controle de permissões com lógica condicional, dicionários e fluxo básico em Python.<br>
-  <i>EN:</i> Permission control simulation with conditional logic, dictionaries, and basic flow in Python.
+- 🎓 Sistema de Notas (Python + Tkinter + SQLite)
+  <i>PT-BR:</i> Aplicação desktop para gerenciamento de notas escolares, com CRUD completo, interface gráfica (Tkinter) e persistência local em SQLite.<br>
+  <i>EN:</i> Desktop app for managing student grades, featuring full CRUD operations, GUI built with Tkinter, and local persistence using SQLite.
 
 ---
 
