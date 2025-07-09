@@ -80,13 +80,9 @@
 
 <h2 align="left">🌐 Onde me encontrar | Where to find me</h2>
 
-- <a href="https://portfolio-oiagocunha.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfólio-222?style=flat-square&logo=vercel&logoColor=white" /> Portfolio</a>
-- <a href="https://www.linkedin.com/in/oiagocunha/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> LinkedIn</a>
-- <a href="mailto:dev.iagocunha@gmail.com"><img src="https://img.shields.io/badge/email-222?style=flat-square&logo=gmail&logoColor=white" /> dev.iagocunha@gmail.com</a>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/oiagocunha/count.svg" />
-</div>
+- <a href="https://portfolio-oiagocunha.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfólio-222?style=flat-square&logo=vercel&logoColor=white" /></a>
+- <a href="https://www.linkedin.com/in/oiagocunha/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a>
+- <a href="mailto:dev.iagocunha@gmail.com"><img src="https://img.shields.io/badge/email-222?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 ---
 
