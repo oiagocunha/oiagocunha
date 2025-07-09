@@ -85,7 +85,7 @@
 - <a href="mailto:dev.iagocunha@gmail.com"><img src="https://img.shields.io/badge/email-222?style=flat-square&logo=gmail&logoColor=white" /> dev.iagocunha@gmail.com</a>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/oiagocunha/count.svg?" />
+  <img src="https://profile-counter.glitch.me/oiagocunha/count.svg" />
 </div>
 
 ---
