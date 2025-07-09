@@ -84,6 +84,18 @@
 - <a href="https://www.linkedin.com/in/oiagocunha/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a>
 - <a href="mailto:dev.iagocunha@gmail.com"><img src="https://img.shields.io/badge/email-222?style=flat-square&logo=gmail&logoColor=white" /></a>
 
+<div align="center">
+  <img height="200" src="https://pa1.narvii.com/6180/07738a6d31e4a93bcb0826890dd5920ed07422ad_hq.gif"  />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oiagocunha/oiagocunha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oiagocunha/oiagocunha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oiagocunha/oiagocunha/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ---
 
 <div align="center">
