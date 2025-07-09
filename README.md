@@ -88,12 +88,6 @@
   <img height="200" src="https://pa1.narvii.com/6180/07738a6d31e4a93bcb0826890dd5920ed07422ad_hq.gif"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oiagocunha/oiagocunha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oiagocunha/oiagocunha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oiagocunha/oiagocunha/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 ---
