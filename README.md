@@ -63,6 +63,14 @@
   <i>PT-BR:</i> Gera QR Codes a partir de links com <code>qrcode.react</code>, converte para imagem com <code>html2canvas</code> e estiliza com Bootstrap Icons.<br>
   <i>EN:</i> Generates QR Codes from links using <code>qrcode.react</code>, converts to image with <code>html2canvas</code>, styled with Bootstrap Icons.
 
+- 🧶 [Xuxiê - Loja de Xuxinhas (React + Tailwind)](https://github.com/oiagocunha/xuxie-croche) · [Preview](https://xuxie-croche.vercel.app/)  
+  <i>PT-BR:</i> Loja virtual responsiva para venda de xuxinhas de crochê. Integração com ViaCEP e WhatsApp para pedidos automáticos, favoritos e carrinho com persistência local.<br>
+  <i>EN:</i> Responsive crochet scrunchie store. Integrated with ViaCEP and WhatsApp for automated checkout, plus persistent cart and favorites using <code>Context API</code> and <code>LocalStorage</code>.
+
+- 📊 [Simulador CLT x Bolsa Família (Fullstack)](https://simuladorclt.observatorio.ind.br)  
+  <i>PT-BR:</i> Ajuda beneficiários do Bolsa Família a simularem o impacto de aceitar um emprego com carteira assinada. Desenvolvido fullstack e publicado pela FIEC.<br>
+  <i>EN:</i> Helps low-income families compare Bolsa Família benefits with formal employment income. Built fullstack and published by the FIEC (industry federation).
+
 - 🎓 [Sistema de Notas (Python + Tkinter + SQLite)](https://github.com/oiagocunha/sistema_notas)  
   <i>PT-BR:</i> Aplicação desktop para gerenciamento de notas escolares, com CRUD completo, interface gráfica (Tkinter) e persistência local em SQLite.<br>
   <i>EN:</i> Desktop app for managing student grades, featuring full CRUD operations, GUI built with Tkinter, and local persistence using SQLite.
