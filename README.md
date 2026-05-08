@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2e4e,100:5b86e5&height=180&section=header&text=Iago%20Cunha&fontAlign=50&fontAlignY=55&fontColor=fff&desc=Fullstack%20Engineer%20|%20Backend-Focused%20|%20Workflow%20Orchestration&descAlign=50&descAlignY=90" width="100%" alt="banner oiagocunha" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2e4e,100:5b86e5&height=180&section=header&text=Iago%20Cunha&fontAlign=50&fontAlignY=55&fontColor=fff&desc=Backend-Focused%20Engineer%20|%20Automation%20%26%20Data%20Systems&descAlign=50&descAlignY=90" width="100%" alt="banner oiagocunha" />
 
 # Iago Cunha
 
-Fullstack Engineer (backend-focused) specialized in Distributed Systems, Workflow Orchestration and Data-Driven Platforms.
+Backend-focused Engineer building reliable automation, workflow orchestration and data platforms in production environments.
 
-I build production-grade automation systems that power critical business workflows, focusing on scalability, fault tolerance, observability and well-defined service boundaries.
+I work on systems that need to be stable under real constraints: async processing, retries, observability, idempotency and clear service boundaries.
 
-- Portfolio: https://portfolio-oiagocunha.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/oiagocunha/
-- Email: dev.iagocunha@gmail.com
-- GitHub: https://github.com/oiagocunha
+- Portfolio: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.vercel.app/)
+- LinkedIn: [linkedin.com/in/oiagocunha](https://www.linkedin.com/in/oiagocunha/)
+- Email: `dev.iagocunha@gmail.com`
+- GitHub: [github.com/oiagocunha](https://github.com/oiagocunha)
 
 ---
 
@@ -17,123 +17,115 @@ I build production-grade automation systems that power critical business workflo
 
 ```ts
 const iago = {
-  title: "Fullstack Engineer (Backend-focused)",
+  role: "Backend-Focused Engineer",
   focus: [
-    "Distributed Systems",
     "Backend Architecture",
     "Workflow Orchestration",
+    "Distributed/Async Processing",
     "Automation Platforms",
-    "Data-Driven Systems",
+    "Data Pipelines",
     "Production Reliability"
   ],
-  currentlyBuilding: "Automation platforms handling mission-critical business workflows",
-  engineeringPrinciples: [
-    "Scalability by design",
-    "Fault tolerance and retries",
-    "Observability (metrics, logs, tracing)",
-    "Clean architecture and clear service boundaries"
-  ],
   stack: {
-    backend: ["Python", "C#", "Node.js"],
-    frontend: ["React", "Next.js", "TypeScript"],
-    orchestration: ["n8n", "Temporal"],
+    backend: ["Python", "Node.js", "C#"],
     data: ["PostgreSQL", "MongoDB", "MySQL"],
-    infra: ["Docker", "Git", "GitLab", "REST APIs"]
-  }
+    orchestration: ["n8n", "Temporal"],
+    apis: ["REST", "Webhooks", "Integrations"],
+    infra: ["Docker", "GitHub/GitLab CI", "Observability basics"]
+  },
+  principles: [
+    "Scalability with simplicity",
+    "Retry-safe and idempotent workflows",
+    "Logs/metrics for fast debugging",
+    "Clear boundaries between services"
+  ]
 };
 ```
 
 ---
 
-## Engineering Focus
+## What I Build
 
-- Event-driven systems and background workers (queues, schedulers, distributed jobs)
-- Workflow orchestration with n8n and Temporal
-- High-availability backend services and API integrations at scale
-- Data consistency, idempotency and reliability patterns
-- Observability using metrics, logs and tracing
-- Fullstack product delivery when required (React / Next.js)
+- Backend services and APIs for automation-heavy workflows
+- Async/background jobs and integration pipelines
+- Reliable data processing with failure isolation and retries
+- Fullstack delivery when needed (React/Next.js), with backend-first decisions
 
 ---
 
-## Impact Highlights
+## Impact
 
-- Delivered 4 mission-critical automations in 30 days, reducing operational errors by ~80%
-- Built an internal QR-based access system, reducing document retrieval time by ~60%
-- Top 5 project — FIEC Hackathon 2024
-- Multiple production systems operating with near-zero downtime
-
----
-
-## Selected Work
-
-### nInA — Automation & Data Intelligence Platform (FIEC)
-
-Lead backend developer for a critical production platform orchestrating complex workflows and large-scale data processing.
-
-- Distributed workflow orchestration
-- API integrations and data pipelines
-- Fault-tolerant backend services
-- Stack: Python, C#, Node.js, PostgreSQL, MongoDB, n8n, Temporal
+- Delivered 4 critical automations in 30 days, reducing operational errors by ~80%
+- Built internal QR-based access flow, reducing retrieval time by ~60%
+- Multiple production systems running with high availability
+- Top 5 project - FIEC Hackathon 2024
 
 ---
 
-### GovMonitor — Government Monitoring System (FIEC)
+## Selected Projects
 
-Responsible for system evolution and reliability improvements.
+### nInA - Automation & Data Intelligence Platform (FIEC)
 
-- Backend refactoring and architectural improvements
-- Database optimization and integrations
-- Frontend restructuring
-- Stack: PHP/Laravel, Inertia.js, PostgreSQL
+Backend lead in a production platform for workflow orchestration and data processing.
 
----
+- Designed and evolved backend modules for workflow execution
+- Built integrations and data movement routines
+- Applied reliability patterns (retry, isolation, observability)
+- Stack: Python, Node.js, C#, PostgreSQL, MongoDB, n8n, Temporal
 
-### CLT Simulator — Public Social Impact Tool
+### GovMonitor - Government Monitoring System (FIEC)
 
-Fullstack delivery with complex financial modeling and real-world production usage.
+Engineering work focused on reliability and maintainability.
 
-- Accurate financial calculations
-- Public-facing frontend with React
-- Node.js backend services
-- Stack: React, TypeScript, Node.js, Express, MongoDB
+- Backend refactoring and architecture cleanup
+- Database and integration improvements
+- Frontend restructuring to reduce coupling
+- Stack: Laravel/PHP, PostgreSQL, Inertia.js
+
+### Public Data Monitor (Personal)
+
+Backend-first project focused on scraping + information retrieval.
+
+- Async scraping pipeline (`httpx` + `asyncio`)
+- FastAPI endpoints with pagination metadata
+- PostgreSQL persistence with deduplication
+- Dockerized setup for reproducible local run
+- Stack: Python, FastAPI, SQLAlchemy Async, PostgreSQL, Docker
 
 ---
 
 ## Engineering Mindset
 
-I design systems prepared for real-world constraints:
+I prefer simple and robust solutions over overengineering:
 
-- Clear service boundaries
-- Idempotent operations
-- Retry-safe workflows
-- Monitoring-first architecture
-- Continuous architectural refinement
+- Small, reliable increments
+- Clear contracts and consistent APIs
+- Failure-aware design (timeouts, retries, graceful degradation)
+- Testable components and reproducible environments
 
 ---
+
 <details>
 <summary>🇧🇷 Versão em português</summary>
 
-Sou Fullstack Engineer com forte foco em backend, especializado em sistemas distribuídos, orquestração de workflows e plataformas de automação em produção.
+Sou engenheiro com foco em backend, atuando em automações, orquestração de workflows e plataformas orientadas a dados em produção.
 
-Atuo na FIEC (Observatório da Indústria), construindo e evoluindo sistemas críticos responsáveis por fluxos estratégicos de negócio e processamento de dados em larga escala.
+Trabalho com sistemas que exigem confiabilidade real: processamento assíncrono, retries, idempotência, observabilidade e limites claros entre serviços.
 
-Foco técnico:
-
-- Arquitetura orientada a eventos
-- Workers distribuídos e processamento assíncrono
+**Foco técnico**
+- Arquitetura backend e APIs
+- Processamento assíncrono e workers
 - Orquestração com n8n e Temporal
-- Confiabilidade, tolerância a falhas e observabilidade
-- Entrega fullstack quando necessário (React / Next.js)
+- Pipelines e integrações de dados
+- Confiabilidade operacional
 
-Impacto:
-
-- 4 automações críticas em 30 dias com redução de ~80% nos erros operacionais
-- Sistema interno com QR Code reduzindo em ~60% o tempo de acesso a documentos
+**Impacto**
+- 4 automações críticas em 30 dias com redução de ~80% dos erros operacionais
+- Sistema interno com QR Code reduzindo ~60% do tempo de recuperação de documentos
 - Sistemas em produção com alta disponibilidade
 
 </details>
 
 ---
 
-Keywords: Distributed systems · Workflow orchestration · Event-driven architecture · Background workers · Data pipelines · Production-grade systems · Observability · Fault tolerance · Clean architecture
+**Keywords:** Backend engineering · Workflow orchestration · Async processing · Data pipelines · Reliability · Observability · API design · Docker · PostgreSQL
