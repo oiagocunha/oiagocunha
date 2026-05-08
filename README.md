@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2e4e,100:5b86e5&height=180&section=header&text=Iago%20Cunha&fontAlign=50&fontAlignY=55&fontColor=fff&desc=Backend-Focused%20Engineer%20|%20Automation%20%26%20Data%20Systems&descAlign=50&descAlignY=90" width="100%" alt="banner oiagocunha" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2e4e,100:5b86e5&height=180&section=header&text=Iago%20Cunha&fontAlign=50&fontAlignY=55&fontColor=fff&desc=Backend%20Engineer%20|%20Systems%20Reliability%20|%20Workflow%20Architecture&descAlign=50&descAlignY=90" width="100%" alt="banner oiagocunha" />
 
 # Iago Cunha
 
-Backend-focused Engineer building reliable automation, workflow orchestration and data platforms in production environments.
+Backend Engineer focused on designing and evolving production systems for workflow orchestration, automation and data processing.
 
-I work on systems that need to be stable under real constraints: async processing, retries, observability, idempotency and clear service boundaries.
+I operate with an ownership mindset: understanding business constraints, defining technical direction, and delivering reliable services with clear contracts, idempotent operations and failure isolation.
 
 - Portfolio: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.vercel.app/)
 - LinkedIn: [linkedin.com/in/oiagocunha](https://www.linkedin.com/in/oiagocunha/)
@@ -17,11 +17,11 @@ I work on systems that need to be stable under real constraints: async processin
 
 ```ts
 const iago = {
-  role: "Backend-Focused Engineer",
+  role: "Backend Engineer (Architecture + Reliability)",
   focus: [
     "Backend Architecture",
     "Workflow Orchestration",
-    "Distributed/Async Processing",
+    "Distributed and Async Processing",
     "Automation Platforms",
     "Data Pipelines",
     "Production Reliability"
@@ -31,33 +31,33 @@ const iago = {
     data: ["PostgreSQL", "MongoDB", "MySQL"],
     orchestration: ["n8n", "Temporal"],
     apis: ["REST", "Webhooks", "Integrations"],
-    infra: ["Docker", "GitHub/GitLab CI", "Observability basics"]
+    infra: ["Docker", "GitHub/GitLab CI", "Service Operations"]
   },
   principles: [
-    "Scalability with simplicity",
-    "Retry-safe and idempotent workflows",
-    "Logs/metrics for fast debugging",
-    "Clear boundaries between services"
+    "Simple architectures that scale",
+    "Resiliency first (timeouts, retries, idempotency)",
+    "Observability for fast incident response",
+    "Clear boundaries and explicit ownership"
   ]
 };
 ```
 
 ---
 
-## What I Build
+## What I Deliver
 
-- Backend services and APIs for automation-heavy workflows
-- Async/background jobs and integration pipelines
-- Reliable data processing with failure isolation and retries
-- Fullstack delivery when needed (React/Next.js), with backend-first decisions
+- Backend services and APIs that support critical operational workflows
+- Async workers, orchestration flows and integration-heavy pipelines
+- Systems designed for partial-failure tolerance and predictable recovery
+- End-to-end delivery when needed, while keeping backend architecture as the core
 
 ---
 
 ## Impact
 
-- Delivered 4 critical automations in 30 days, reducing operational errors by ~80%
-- Built internal QR-based access flow, reducing retrieval time by ~60%
-- Multiple production systems running with high availability
+- Delivered 4 mission-critical automations in 30 days, reducing operational errors by ~80%
+- Built an internal QR-based access system, reducing document retrieval time by ~60%
+- Evolved production systems with high availability and low incident rate
 - Top 5 project - FIEC Hackathon 2024
 
 ---
@@ -66,63 +66,63 @@ const iago = {
 
 ### nInA - Automation & Data Intelligence Platform (FIEC)
 
-Backend lead in a production platform for workflow orchestration and data processing.
+Backend lead in a production platform responsible for workflow orchestration and large-scale data operations.
 
-- Designed and evolved backend modules for workflow execution
-- Built integrations and data movement routines
-- Applied reliability patterns (retry, isolation, observability)
+- Defined backend architecture decisions and integration boundaries
+- Designed and evolved workflow execution modules and data pipelines
+- Applied resiliency patterns (retry, idempotency, failure isolation, observability)
 - Stack: Python, Node.js, C#, PostgreSQL, MongoDB, n8n, Temporal
 
 ### GovMonitor - Government Monitoring System (FIEC)
 
-Engineering work focused on reliability and maintainability.
+Engineering ownership focused on reliability, maintainability and system evolution.
 
-- Backend refactoring and architecture cleanup
-- Database and integration improvements
-- Frontend restructuring to reduce coupling
+- Led backend refactoring and architectural simplification
+- Improved database structure and integration reliability
+- Reduced coupling between layers to improve maintainability
 - Stack: Laravel/PHP, PostgreSQL, Inertia.js
 
 ### Public Data Monitor (Personal)
 
-Backend-first project focused on scraping + information retrieval.
+Backend-first project focused on scraping and information retrieval.
 
 - Async scraping pipeline (`httpx` + `asyncio`)
-- FastAPI endpoints with pagination metadata
-- PostgreSQL persistence with deduplication
-- Dockerized setup for reproducible local run
+- FastAPI endpoints with pagination metadata and consistent contracts
+- PostgreSQL persistence with deduplication and idempotent ingestion
+- Dockerized setup for reproducible environments
 - Stack: Python, FastAPI, SQLAlchemy Async, PostgreSQL, Docker
 
 ---
 
 ## Engineering Mindset
 
-I prefer simple and robust solutions over overengineering:
+I value technical clarity, operational stability and pragmatic delivery:
 
-- Small, reliable increments
-- Clear contracts and consistent APIs
+- Scope control and incremental delivery
+- Reliable defaults before advanced abstractions
 - Failure-aware design (timeouts, retries, graceful degradation)
-- Testable components and reproducible environments
+- Testability, reproducibility and maintainability as non-negotiables
 
 ---
 
 <details>
 <summary>🇧🇷 Versão em português</summary>
 
-Sou engenheiro com foco em backend, atuando em automações, orquestração de workflows e plataformas orientadas a dados em produção.
+Sou engenheiro com foco em backend, atuando na arquitetura e evolução de sistemas de automação, orquestração de workflows e processamento de dados em produção.
 
-Trabalho com sistemas que exigem confiabilidade real: processamento assíncrono, retries, idempotência, observabilidade e limites claros entre serviços.
+Atuo com mentalidade de ownership: traduzo contexto de negócio em decisões técnicas, priorizo confiabilidade operacional e entrego serviços com contratos claros e comportamento previsível.
 
 **Foco técnico**
 - Arquitetura backend e APIs
 - Processamento assíncrono e workers
 - Orquestração com n8n e Temporal
 - Pipelines e integrações de dados
-- Confiabilidade operacional
+- Confiabilidade operacional e resiliência
 
 **Impacto**
 - 4 automações críticas em 30 dias com redução de ~80% dos erros operacionais
 - Sistema interno com QR Code reduzindo ~60% do tempo de recuperação de documentos
-- Sistemas em produção com alta disponibilidade
+- Evolução contínua de sistemas em produção com alta disponibilidade
 
 </details>
 
