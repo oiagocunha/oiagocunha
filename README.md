@@ -149,11 +149,7 @@ Mais projetos no [portfólio](https://portfolio-oiagocunha.vercel.app/).
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oiagocunha/oiagocunha/snake-output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oiagocunha/oiagocunha/snake-output/snake.svg">
-  <img src="https://raw.githubusercontent.com/oiagocunha/oiagocunha/snake-output/snake.svg" alt="Snake animation" />
-</picture>
+<img src="https://raw.githubusercontent.com/oiagocunha/oiagocunha/main/dist/snake.gif" alt="Snake animation" />
 
 <img height="165" src="https://github-readme-stats.profile-readme-generator.com/api?username=oiagocunha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs/?username=oiagocunha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
