@@ -15,21 +15,23 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake animation (GIF + SVG)
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            dist/snake.gif?palette=github-dark
+            dist/snake.svg?palette=github-dark
 
-      - name: Commit snake.svg
+      - name: Commit snake assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/snake.svg
+          git add dist/snake.gif dist/snake.svg
           git diff --staged --quiet && echo "No changes" || (git commit -m "chore: update snake animation" && git push)
