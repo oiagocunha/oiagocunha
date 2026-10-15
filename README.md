@@ -1,147 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2e4e,100:5b86e5&height=180&section=header&text=Iago%20Cunha&fontAlign=50&fontAlignY=55&fontColor=fff&desc=Backend%20Engineer%20|%20IA%20|%20Distributed%20Systems&descAlign=50&descAlignY=90" width="100%" alt="banner oiagocunha" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Iago%20Cunha&fontSize=52&fontAlignY=38&fontColor=fff&desc=Backend%20%C2%B7%20IA%20Generativa%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=62&descSize=18" width="100%" alt="Iago Cunha" />
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-portfolio--oiagocunha.vercel.app-5B86E5?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-oiagocunha.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-portfolio--oiagocunha.vercel.app-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-oiagocunha.vercel.app/)
+[![Perfil](https://img.shields.io/badge/Perfil-Experiência%20%26%20currículo-0ea5e9?style=for-the-badge)](https://portfolio-oiagocunha.vercel.app/perfil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oiagocunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oiagocunha/)
 [![Email](https://img.shields.io/badge/Email-dev.iagocunha@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.iagocunha@gmail.com)
 
-**Idioma · Language:** [🇧🇷 Português](#sobre-mim) · [🇺🇸 English](#-english-version)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=5B86E5&center=true&vCenter=true&width=900&lines=Python+%C2%B7+FastAPI+%C2%B7+Temporal+%C2%B7+Kafka;RAG+%C2%B7+Agentes+de+IA+%C2%B7+Microsservi%C3%ADcos;Pipelines+ass%C3%ADncronos+em+produ%C3%A7%C3%A3o" alt="Typing animation" />
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=oiagocunha.oiagocunha&left_color=0f0c29&right_color=5B86E5" alt="Profile views" />
+**Idioma · Language:** [Português](#sobre) · [English](#english)
 
 </div>
 
 ---
 
-## Sobre mim
+## Sobre
 
-Sou **Engenheiro de Software Backend** especializado no ecossistema **Python moderno**, **arquiteturas distribuídas** e **engenharia de dados aplicada a IA**.
+Desenvolvedor **Backend & IA** no **Sistema FIEC / Observatório da Indústria** (Fortaleza · remoto).
 
-Construo plataformas de **agentes de IA**, **pipelines assíncronos** de ingestão em grande volume e arquiteturas **RAG** com busca semântica e vetorial. Trabalho com fluxos resilientes e orientados a eventos (**FastAPI**, **asyncio**, **Temporal**, **Apache Kafka**), sustento ambientes de alta disponibilidade com **Docker** e **Kubernetes**, e garanto qualidade com **Pytest** e esteiras **GitLab CI/CD**.
+Atuo com APIs, orquestração de agentes, pipelines RAG, autenticação corporativa e aplicações em Kubernetes. Desde jun/2024, também entrego sites, MVPs e automações como **IC Desenvolvimento**.
 
-📍 Fortaleza — CE · Disponível para remoto
-
-```python
-iago = {
-    "cargo": "Desenvolvedor Backend / IA @ FIEC · Observatório da Indústria",
-    "foco": [
-        "Plataformas de agentes de IA distribuídos",
-        "RAG e recuperação vetorial/semântica",
-        "Orquestração com Temporal e mensageria com Kafka",
-        "APIs de alta performance com FastAPI",
-        "Observabilidade, testes e CI/CD em produção",
-    ],
-    "stack": {
-        "backend": ["Python", "FastAPI", "SQLAlchemy 2", "Node.js"],
-        "ia_dados": ["RAG", "LLMs", "Ingestão assíncrona", "Bancos vetoriais"],
-        "distribuido": ["asyncio", "Temporal", "Kafka", "Redis", "DLQ/Retry"],
-        "dados": ["PostgreSQL", "MongoDB"],
-        "infra": ["Docker", "Kubernetes", "GitLab CI/CD", "GitHub Actions"],
-    },
-}
-```
-
----
-
-## Stack principal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb,redis,docker,kubernetes,linux,git,gitlab,nodejs&perline=11" alt="Tech stack" />
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20RAG-412991?style=flat-square&logo=openai&logoColor=white)
-
-</div>
+📍 Fortaleza, Brasil · Remoto · Português nativo · Inglês B2
 
 ---
 
 ## Experiência
 
-### Sistema FIEC · Observatório da Indústria
+### Sistema FIEC / Observatório da Indústria · Backend & IA · mar/2025 – atual
 
-<img src="https://img.shields.io/badge/FIEC-Observat%C3%B3rio%20da%20Ind%C3%BAstria-5B86E5?style=flat-square" alt="FIEC" />
-<img src="https://img.shields.io/badge/Local-Fortaleza%20%E2%80%94%20CE-555?style=flat-square" alt="Fortaleza CE" />
+`Python` `FastAPI` `Temporal` `Kafka` `RAG` `PostgreSQL` `Kubernetes` `n8n`
 
-<br>
+- Gateway compatível com a API OpenAI ligando LibreChat a agentes corporativos via Temporal, com streaming SSE
+- Roteamento entre quatro habilidades especializadas e dois modelos gerais, cada um com base RAG própria
+- Pipelines de ingestão documental e busca semântica (Google Drive, embeddings, PostgreSQL/pgvector)
+- Automações com n8n e APIs; retry, backoff e DLQ; autenticação Google Workspace/AD com acesso por grupos
+- Sustentação em três ambientes Kubernetes; telemetria do piloto: 47 usuários cadastrados, 31 com uso, ~1,4 milhão de tokens
 
-#### Desenvolvedor Backend / IA (PJ)
-<img src="https://img.shields.io/badge/11%2F2025-Atual-22c55e?style=flat-square" alt="11/2025 Atual" />
+[Case do assistente corporativo](https://portfolio-oiagocunha.vercel.app/case-study/chat-platform) · código proprietário
 
-`Python` `FastAPI` `Temporal` `Kafka` `RAG` `Kubernetes` `PostgreSQL` `MongoDB` `GitLab CI/CD`
+### IC Desenvolvimento · Full Stack · jun/2024 – atual
 
-Plataforma de **Agentes de IA Distribuída** — arquitetura multi-repositório com ingestão assíncrona, orquestração de fluxos e **API Gateway** compatível com OpenAI (OpenWebUI / LibreChat).
-
-| Entrega | Detalhe |
-| --- | --- |
-| Agentes & RAG | Assistentes inteligentes, recuperação vetorial/semântica e UI desacoplada da regra de negócio |
-| Orquestração | Workers com **Temporal** (workflows, activities, retries) e **Kafka** (retry, backoff, DLQ) |
-| Qualidade | **Pytest**, logs instrumentados e documentação modular para onboarding de agentes |
-| Infra | Persistência **PostgreSQL** / **MongoDB**, tuning e incidentes em **Kubernetes** |
-| DevOps | Esteiras **GitLab CI/CD** cobrindo 100% do ciclo de entrega |
-
-<br>
-
-#### Estagiário em Engenharia de Software Backend
-<img src="https://img.shields.io/badge/03%2F2025-11%2F2025-64748b?style=flat-square" alt="03/2025 11/2025" />
-
-`Python` `REST APIs` `n8n` `PHP` `Laravel` `PostgreSQL`
-
-| Entrega | Detalhe |
-| --- | --- |
-| Automação | **−80%** em erros operacionais com pipelines de extração e integração via APIs REST e **n8n** |
-| Integrações | Robôs e apps ligados a serviços governamentais com fluxos assíncronos e recuperação rápida |
-| Modernização | Migração de legados **PHP/Laravel** para APIs modernas e serviços desacoplados |
+MVPs, automações e integrações com APIs — definição técnica, frontend, backend e bancos relacionais e não relacionais.
 
 ---
 
-### Freelancer · Brasil
+## Projetos públicos
 
-#### Engenheiro Backend
-<img src="https://img.shields.io/badge/01%2F2025-Atual-22c55e?style=flat-square" alt="01/2025 Atual" />
-
-`Python` `FastAPI` `Microsserviços` `LLMs`
-
-Microsserviços de alta performance com padrões de projeto para processamento de dados e consumo eficiente de APIs de LLMs de terceiros.
-
----
-
-## Projetos em destaque
-
-| Projeto | Descrição | Repo |
+| Projeto | O que é | Links |
 | --- | --- | --- |
-| **Job Match Alerts** | Ingestão de currículos (PDF) e vagas (Gupy, LinkedIn, Inhire); IA para skills; motor de score ATS e rankings preditivos. FastAPI, asyncpg, PostgreSQL, Redis, Docker, Pytest. | [github.com/oiagocunha/job-match-alerts](https://github.com/oiagocunha/job-match-alerts) |
-| **Public Data Monitor** | Coleta e processamento assíncrono de dados públicos — pipeline estilo RAG, Pytest e GitHub Actions. | [github.com/oiagocunha/public-data-monitor](https://github.com/oiagocunha/public-data-monitor) |
+| **Job Match Alerts** | Comparação de currículos e vagas com LLMs, ranking explicável, Pytest e CI | [repo](https://github.com/oiagocunha/job-match-alerts) · [demo](https://job-match-alerts.vercel.app/) |
+| **Public Data Monitor** | Coleta assíncrona de notícias, API paginada, deduplicação e OpenAPI | [repo](https://github.com/oiagocunha/public-data-monitor) · [Swagger](https://public-data-monitor.onrender.com/docs) · [case](https://portfolio-oiagocunha.vercel.app/case-study/public-data-monitor) |
+| **FV Crochê** | Catálogo web com categorias e carrinho para encomendas | [demo](https://fv-croche.vercel.app/) |
 
-Mais projetos no [portfólio](https://portfolio-oiagocunha.vercel.app/).
+Mais detalhes: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.vercel.app/)
 
 ---
 
-## Impacto em números
+## Stack
 
 <div align="center">
 
-| Métrica | Resultado |
-| ---: | --- |
-| Redução de erros operacionais | **~80%** (pipelines automatizados) |
-| Ciclo de entrega na plataforma de agentes | **100%** via GitLab CI/CD |
-| Hackathon FIEC 2024 | **Top 5** projetos |
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb,redis,docker,kubernetes,linux,git,gitlab,nodejs,react,ts&perline=13" alt="Tech stack" />
 
 </div>
+
+| Área | Tecnologias |
+| --- | --- |
+| Backend | Python, FastAPI, TypeScript, Node.js, SQLAlchemy, Pytest |
+| IA e automação | LLMs, agentes, RAG, embeddings, pgvector, n8n |
+| Orquestração | Temporal, Kafka, asyncio, retry / DLQ |
+| Dados | PostgreSQL, MongoDB, Redis |
+| Infra | Docker, Kubernetes, GitLab CI/CD, GitHub Actions |
+| Frontend | React, Next.js, Tailwind CSS |
 
 ---
 
@@ -151,115 +80,72 @@ Mais projetos no [portfólio](https://portfolio-oiagocunha.vercel.app/).
 
 <img src="https://raw.githubusercontent.com/oiagocunha/oiagocunha/main/dist/snake.gif" alt="Snake animation" />
 
-<img height="165" src="https://github-readme-stats.profile-readme-generator.com/api?username=oiagocunha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs/?username=oiagocunha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=oiagocunha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiagocunha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 <img height="165" src="https://streak-stats.demolab.com/?user=oiagocunha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## Formação & extras
+## Formação
 
-- **Estácio** — Tecnólogo em Análise e Desenvolvimento de Sistemas (6º semestre · 02/2024 — 12/2026)
-- **Digital College Brasil** — Desenvolvimento Web Full Stack (192h · 2024)
-- **Inglês B1** — leitura técnica sólida e documentação em inglês
+- **Estácio** — Análise e Desenvolvimento de Sistemas · conclusão prevista dez/2026
+- **Idiomas** — Português nativo · Inglês B2
 
 ---
 
+## Contato
+
+- Recrutadores: [perfil profissional](https://portfolio-oiagocunha.vercel.app/perfil) · [e-mail](mailto:dev.iagocunha@gmail.com) · [LinkedIn](https://www.linkedin.com/in/oiagocunha/)
+- Projetos comerciais: [IC Desenvolvimento](https://portfolio-oiagocunha.vercel.app/)
+
+---
+
+<a id="english"></a>
+
 <details>
-<summary><strong>🇺🇸 English version</strong></summary>
+<summary><strong>English</strong></summary>
 
 <br>
 
-<div align="center">
+## About
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=5B86E5&center=true&vCenter=true&width=900&lines=Python+%C2%B7+FastAPI+%C2%B7+Temporal+%C2%B7+Kafka;RAG+%C2%B7+AI+Agents+%C2%B7+Microservices;Async+pipelines+in+production" alt="Typing animation" />
+I'm a **Backend & AI developer** at **Sistema FIEC / Industry Observatory** in Fortaleza, Brazil (remote-friendly).
 
-</div>
+Most of my day-to-day work is around APIs, agent orchestration, RAG pipelines, corporate auth, and keeping services healthy on Kubernetes. On the side, since June 2024, I ship websites, MVPs, and automations as **IC Desenvolvimento**.
 
-## About me
-
-I'm a **Backend Software Engineer** focused on the modern **Python** ecosystem, **distributed architectures**, and **data engineering applied to AI**.
-
-I build **AI agent platforms**, **high-volume async ingestion pipelines**, and **RAG** architectures with semantic and vector search. I work with resilient, event-driven flows (**FastAPI**, **asyncio**, **Temporal**, **Apache Kafka**), run highly available environments with **Docker** and **Kubernetes**, and ensure quality with **Pytest** and **GitLab CI/CD** pipelines.
-
-📍 Fortaleza — Brazil · Open to remote work
-
-```python
-iago = {
-    "role": "Backend / AI Developer @ FIEC · Industry Observatory",
-    "focus": [
-        "Distributed AI agent platforms",
-        "RAG and vector/semantic retrieval",
-        "Orchestration with Temporal and Kafka messaging",
-        "High-performance APIs with FastAPI",
-        "Observability, testing, and CI/CD in production",
-    ],
-    "stack": {
-        "backend": ["Python", "FastAPI", "SQLAlchemy 2", "Node.js"],
-        "ai_data": ["RAG", "LLMs", "Async ingestion", "Vector databases"],
-        "distributed": ["asyncio", "Temporal", "Kafka", "Redis", "DLQ/Retry"],
-        "data": ["PostgreSQL", "MongoDB"],
-        "infra": ["Docker", "Kubernetes", "GitLab CI/CD", "GitHub Actions"],
-    },
-}
-```
+Native Portuguese · English B2 · open to remote roles
 
 ## Experience
 
-### FIEC System · Industry Observatory
+### Sistema FIEC / Industry Observatory · Backend & AI Developer · Mar 2025 – present
 
-#### Backend / AI Developer (Contractor) · `Nov/2025 — Present`
+- Built an OpenAI-compatible gateway that connects LibreChat to corporate agents through Temporal, with SSE streaming
+- Routed traffic across four specialized capabilities and two general-purpose models, each with its own RAG knowledge base
+- Shipped document ingestion and semantic search (Google Drive → embeddings → PostgreSQL / pgvector)
+- Automated workflows with n8n and APIs; added retries, backoff, and DLQs; wired Google Workspace/AD auth with group-based access
+- Helped run apps across three Kubernetes environments; pilot telemetry: 47 registered users, 31 with recorded usage, ~1.4M tokens
 
-`Python` `FastAPI` `Temporal` `Kafka` `RAG` `Kubernetes` `PostgreSQL` `MongoDB` `GitLab CI/CD`
+[Corporate assistant case study](https://portfolio-oiagocunha.vercel.app/en/case-study/chat-platform) (proprietary codebase)
 
-**Distributed AI Agent Platform** — multi-repo architecture with async ingestion, workflow orchestration, and an **OpenAI-compatible API Gateway** (OpenWebUI / LibreChat).
+### IC Desenvolvimento · Full Stack · Jun 2024 – present
 
-| Area | Highlights |
-| --- | --- |
-| Agents & RAG | Smart assistants, vector/semantic retrieval, UI decoupled from business logic |
-| Orchestration | Async workers with **Temporal** and **Kafka** pipelines (retry, backoff, DLQ) |
-| Quality | **Pytest**, structured logs, modular docs for onboarding new agents |
-| Infra | **PostgreSQL** / **MongoDB**, tuning and incidents on **Kubernetes** |
-| DevOps | **GitLab CI/CD** covering 100% of the delivery cycle |
+Client work across MVPs, automations, and API integrations — technical planning through frontend, backend, and databases.
 
-#### Backend Software Engineering Intern · `Mar/2025 — Nov/2025`
+## Selected projects
 
-| Area | Highlights |
-| --- | --- |
-| Automation | **~80%** reduction in operational errors via data extraction pipelines and **n8n** |
-| Integrations | Bots and apps connected to government services with async, recoverable flows |
-| Modernization | Legacy **PHP/Laravel** migration to modern APIs and decoupled services |
+- **[Job Match Alerts](https://github.com/oiagocunha/job-match-alerts)** — résumé/job matching with LLMs and explainable scoring · [live demo](https://job-match-alerts.vercel.app/)
+- **[Public Data Monitor](https://github.com/oiagocunha/public-data-monitor)** — async news ingestion, paginated API, idempotent writes · [Swagger](https://public-data-monitor.onrender.com/docs)
+- **[FV Crochê](https://fv-croche.vercel.app/)** — product catalog with categories and an order cart
 
-### Freelancer · Brazil
+## Education
 
-#### Backend Engineer · `Jan/2025 — Present`
+Estácio — Systems Analysis and Development (expected Dec 2026)
 
-High-performance microservices in **Python (FastAPI)** with efficient LLM API consumption patterns.
+## Contact
 
-## Featured projects
-
-| Project | Description |
-| --- | --- |
-| **Job Match Alerts** | Resume ingestion (PDF), job imports (Gupy, LinkedIn, Inhire), AI skill extraction, custom ATS scoring engine. FastAPI, PostgreSQL, Redis, Docker, Pytest. |
-| **Public Data Monitor** | Async public data collection and processing — RAG-style pipeline, Pytest, GitHub Actions. |
-
-More at [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.vercel.app/).
-
-## Impact
-
-| Metric | Result |
-| --- | --- |
-| Operational error reduction | **~80%** |
-| Agent platform delivery cycle | **100%** via GitLab CI/CD |
-| FIEC Hackathon 2024 | **Top 5** |
-
-## Education & extras
-
-- **Estácio** — Systems Analysis & Development (6th semester · 2024–2026)
-- **Digital College Brazil** — Full Stack Web Development (192h · 2024)
-- **English B1** — solid technical reading and documentation comprehension
+[Professional profile](https://portfolio-oiagocunha.vercel.app/en/perfil) · [email](mailto:dev.iagocunha@gmail.com) · [LinkedIn](https://www.linkedin.com/in/oiagocunha/)
 
 </details>
 
@@ -267,8 +153,6 @@ More at [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.vercel.ap
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2e4e,100:5b86e5&height=130&section=footer&text=Vamos%20construir%20juntos%3F&fontSize=26&fontAlign=50&fontAlignY=62&fontColor=fff" width="100%" alt="Footer" />
-
-**Backend · IA · Sistemas distribuídos · RAG · Agentes**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=120&section=footer&text=Backend%20%C2%B7%20IA%20%C2%B7%20Automa%C3%A7%C3%A3o&fontSize=22&fontAlignY=65&fontColor=fff" width="100%" alt="Footer" />
 
 </div>
