@@ -1,65 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Iago%20Cunha&fontSize=52&fontAlignY=38&fontColor=fff&desc=Backend%20%C2%B7%20IA%20Generativa%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=62&descSize=18" width="100%" alt="Iago Cunha" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:38bdf8&height=220&section=header&text=Iago%20Cunha&fontSize=54&fontAlignY=36&fontColor=ffffff&desc=Backend%20%C2%B7%20IA%20Generativa%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=16" width="100%" alt="Iago Cunha — Backend, IA Generativa, Automação" />
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-portfolio--oiagocunha.vercel.app-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-oiagocunha.vercel.app/)
-[![Perfil](https://img.shields.io/badge/Perfil-Experiência%20%26%20currículo-0ea5e9?style=for-the-badge)](https://portfolio-oiagocunha.vercel.app/perfil)
+<br/>
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-IC%20Desenvolvimento-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-oiagocunha.vercel.app/)
+[![Perfil](https://img.shields.io/badge/Perfil-Experiência%20%26%20currículo-0ea5e9?style=for-the-badge&logo=readthedocs&logoColor=white)](https://portfolio-oiagocunha.vercel.app/perfil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oiagocunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oiagocunha/)
 [![Email](https://img.shields.io/badge/Email-dev.iagocunha@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.iagocunha@gmail.com)
 
-**Idioma · Language:** [Português](#sobre) · [English](#english)
+<br/>
+
+**Idioma · Language**
+
+[![PT](https://img.shields.io/badge/🇧🇷_Português-0f172a?style=flat-square)](#sobre)
+[![EN](https://img.shields.io/badge/🇺🇸_English-38bdf8?style=flat-square)](#english)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Python+%C2%B7+FastAPI+%C2%B7+Temporal+%C2%B7+Kafka;RAG+%C2%B7+Agentes+de+IA+%C2%B7+n8n;APIs+e+automa%C3%A7%C3%B5es+em+produ%C3%A7%C3%A3o" alt="Áreas de atuação" />
 
 </div>
 
 ---
 
+<a id="sobre"></a>
+
 ## Sobre
 
 Desenvolvedor **Backend & IA** no **Sistema FIEC / Observatório da Indústria** (Fortaleza · remoto).
 
-Atuo com APIs, orquestração de agentes, pipelines RAG, autenticação corporativa e aplicações em Kubernetes. Desde jun/2024, também entrego sites, MVPs e automações como **IC Desenvolvimento**.
+Trabalho com APIs, orquestração de agentes, pipelines RAG, autenticação corporativa e aplicações em Kubernetes. Desde **jun/2024**, também entrego sites, MVPs e automações como **IC Desenvolvimento**.
 
-📍 Fortaleza, Brasil · Remoto · Português nativo · Inglês B2
+`Python` `FastAPI` `Temporal` `Kafka` `RAG` `PostgreSQL` `Kubernetes` `n8n` `TypeScript` `React`
 
----
-
-## Experiência
-
-### Sistema FIEC / Observatório da Indústria · Backend & IA · mar/2025 – atual
-
-`Python` `FastAPI` `Temporal` `Kafka` `RAG` `PostgreSQL` `Kubernetes` `n8n`
-
-- Gateway compatível com a API OpenAI ligando LibreChat a agentes corporativos via Temporal, com streaming SSE
-- Roteamento entre quatro habilidades especializadas e dois modelos gerais, cada um com base RAG própria
-- Pipelines de ingestão documental e busca semântica (Google Drive, embeddings, PostgreSQL/pgvector)
-- Automações com n8n e APIs; retry, backoff e DLQ; autenticação Google Workspace/AD com acesso por grupos
-- Sustentação em três ambientes Kubernetes; telemetria do piloto: 47 usuários cadastrados, 31 com uso, ~1,4 milhão de tokens
-
-[Case do assistente corporativo](https://portfolio-oiagocunha.vercel.app/case-study/chat-platform) · código proprietário
-
-### IC Desenvolvimento · Full Stack · jun/2024 – atual
-
-MVPs, automações e integrações com APIs — definição técnica, frontend, backend e bancos relacionais e não relacionais.
+📍 Fortaleza · Português nativo · Inglês B2 · Aberto a remoto
 
 ---
 
-## Projetos públicos
+## Experiência profissional
 
-| Projeto | O que é | Links |
+### Sistema FIEC / Observatório da Indústria
+**Desenvolvedor Backend & IA** · `mar/2025 – atual`
+
+| Foco | Entrega |
+| --- | --- |
+| Gateway | API compatível com OpenAI ligando LibreChat a agentes via Temporal (streaming SSE) |
+| Agentes e RAG | Roteamento entre 4 habilidades especializadas e 2 modelos gerais, cada um com base própria |
+| Dados | Ingestão documental e busca semântica (Google Drive → embeddings → PostgreSQL/pgvector) |
+| Confiabilidade | Retry, backoff, DLQ; auth Google Workspace/AD com acesso por grupos |
+| Operação | Sustentação em 3 ambientes Kubernetes; telemetria do piloto: 47 cadastrados / 31 com uso · ~1,4 mi tokens |
+
+→ [Case técnico](https://portfolio-oiagocunha.vercel.app/case-study/chat-platform) (código proprietário)
+
+### IC Desenvolvimento
+**Desenvolvedor Full Stack** · `jun/2024 – atual`
+
+Projetos para clientes: MVPs, automações de rotina e integrações com APIs — da definição técnica ao frontend, backend e bancos.
+
+---
+
+## Projetos selecionados
+
+| Projeto | Resumo | Links |
 | --- | --- | --- |
-| **Job Match Alerts** | Comparação de currículos e vagas com LLMs, ranking explicável, Pytest e CI | [repo](https://github.com/oiagocunha/job-match-alerts) · [demo](https://job-match-alerts.vercel.app/) |
-| **Public Data Monitor** | Coleta assíncrona de notícias, API paginada, deduplicação e OpenAPI | [repo](https://github.com/oiagocunha/public-data-monitor) · [Swagger](https://public-data-monitor.onrender.com/docs) · [case](https://portfolio-oiagocunha.vercel.app/case-study/public-data-monitor) |
-| **FV Crochê** | Catálogo web com categorias e carrinho para encomendas | [demo](https://fv-croche.vercel.app/) |
+| **Job Match Alerts** | Comparação de currículos e vagas com LLMs, ranking explicável, Pytest e CI | [GitHub](https://github.com/oiagocunha/job-match-alerts) · [Demo](https://job-match-alerts.vercel.app/) |
+| **Public Data Monitor** | Pipeline assíncrono de notícias, API paginada, deduplicação, OpenAPI | [GitHub](https://github.com/oiagocunha/public-data-monitor) · [Swagger](https://public-data-monitor.onrender.com/docs) · [Case](https://portfolio-oiagocunha.vercel.app/case-study/public-data-monitor) |
+| **FV Crochê** | Catálogo com categorias e carrinho para encomendas | [Demo](https://fv-croche.vercel.app/) |
 
-Mais detalhes: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.vercel.app/)
+Portfólio completo: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.vercel.app/)
 
 ---
 
-## Stack
+## Competências
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb,redis,docker,kubernetes,linux,git,gitlab,nodejs,react,ts&perline=13" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb,redis,docker,kubernetes,linux,git,gitlab,nodejs,react,ts&perline=13" alt="Stack" />
 
 </div>
 
@@ -74,15 +89,15 @@ Mais detalhes: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.ve
 
 ---
 
-## GitHub
+## Atividade no GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/oiagocunha/oiagocunha/main/dist/snake.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/oiagocunha/oiagocunha/main/dist/snake.gif" alt="Snake de contribuições" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oiagocunha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiagocunha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<img height="165" src="https://streak-stats.demolab.com/?user=oiagocunha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=oiagocunha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiagocunha&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="160" src="https://streak-stats.demolab.com/?user=oiagocunha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -97,15 +112,17 @@ Mais detalhes: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.ve
 
 ## Contato
 
-- Recrutadores: [perfil profissional](https://portfolio-oiagocunha.vercel.app/perfil) · [e-mail](mailto:dev.iagocunha@gmail.com) · [LinkedIn](https://www.linkedin.com/in/oiagocunha/)
-- Projetos comerciais: [IC Desenvolvimento](https://portfolio-oiagocunha.vercel.app/)
+| Público | Links |
+| --- | --- |
+| Recrutadores | [Perfil profissional](https://portfolio-oiagocunha.vercel.app/perfil) · [E-mail](mailto:dev.iagocunha@gmail.com) · [LinkedIn](https://www.linkedin.com/in/oiagocunha/) |
+| Clientes | [IC Desenvolvimento](https://portfolio-oiagocunha.vercel.app/) |
 
 ---
 
 <a id="english"></a>
 
 <details>
-<summary><strong>English</strong></summary>
+<summary><strong>🇺🇸 English version</strong></summary>
 
 <br>
 
@@ -113,35 +130,31 @@ Mais detalhes: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.ve
 
 I'm a **Backend & AI developer** at **Sistema FIEC / Industry Observatory** in Fortaleza, Brazil (remote-friendly).
 
-Most of my day-to-day work is around APIs, agent orchestration, RAG pipelines, corporate auth, and keeping services healthy on Kubernetes. On the side, since June 2024, I ship websites, MVPs, and automations as **IC Desenvolvimento**.
+Day to day I work on APIs, agent orchestration, RAG pipelines, corporate auth, and services on Kubernetes. Independently, since June 2024, I also ship websites, MVPs, and automations as **IC Desenvolvimento**.
 
 Native Portuguese · English B2 · open to remote roles
 
 ## Experience
 
-### Sistema FIEC / Industry Observatory · Backend & AI Developer · Mar 2025 – present
+### Sistema FIEC / Industry Observatory · Backend & AI · Mar 2025 – present
 
-- Built an OpenAI-compatible gateway that connects LibreChat to corporate agents through Temporal, with SSE streaming
-- Routed traffic across four specialized capabilities and two general-purpose models, each with its own RAG knowledge base
-- Shipped document ingestion and semantic search (Google Drive → embeddings → PostgreSQL / pgvector)
-- Automated workflows with n8n and APIs; added retries, backoff, and DLQs; wired Google Workspace/AD auth with group-based access
-- Helped run apps across three Kubernetes environments; pilot telemetry: 47 registered users, 31 with recorded usage, ~1.4M tokens
+- OpenAI-compatible gateway connecting LibreChat to corporate agents through Temporal (SSE)
+- Routing across 4 specialized capabilities and 2 general models, each with its own RAG base
+- Document ingestion and semantic search (Google Drive → embeddings → PostgreSQL / pgvector)
+- n8n/API automations; retries, backoff, DLQ; Google Workspace/AD auth with group-based access
+- Support across 3 Kubernetes environments; pilot telemetry: 47 registered / 31 with usage · ~1.4M tokens
 
-[Corporate assistant case study](https://portfolio-oiagocunha.vercel.app/en/case-study/chat-platform) (proprietary codebase)
+[Case study](https://portfolio-oiagocunha.vercel.app/en/case-study/chat-platform) (proprietary codebase)
 
 ### IC Desenvolvimento · Full Stack · Jun 2024 – present
 
-Client work across MVPs, automations, and API integrations — technical planning through frontend, backend, and databases.
+Client work: MVPs, workflow automations, and API integrations — from planning through frontend, backend, and databases.
 
 ## Selected projects
 
-- **[Job Match Alerts](https://github.com/oiagocunha/job-match-alerts)** — résumé/job matching with LLMs and explainable scoring · [live demo](https://job-match-alerts.vercel.app/)
-- **[Public Data Monitor](https://github.com/oiagocunha/public-data-monitor)** — async news ingestion, paginated API, idempotent writes · [Swagger](https://public-data-monitor.onrender.com/docs)
-- **[FV Crochê](https://fv-croche.vercel.app/)** — product catalog with categories and an order cart
-
-## Education
-
-Estácio — Systems Analysis and Development (expected Dec 2026)
+- **[Job Match Alerts](https://github.com/oiagocunha/job-match-alerts)** — résumé/job matching with LLMs · [demo](https://job-match-alerts.vercel.app/)
+- **[Public Data Monitor](https://github.com/oiagocunha/public-data-monitor)** — async news pipeline · [Swagger](https://public-data-monitor.onrender.com/docs)
+- **[FV Crochê](https://fv-croche.vercel.app/)** — product catalog with order cart
 
 ## Contact
 
@@ -153,6 +166,6 @@ Estácio — Systems Analysis and Development (expected Dec 2026)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=120&section=footer&text=Backend%20%C2%B7%20IA%20%C2%B7%20Automa%C3%A7%C3%A3o&fontSize=22&fontAlignY=65&fontColor=fff" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:38bdf8&height=120&section=footer&text=Backend%20%C2%B7%20IA%20%C2%B7%20Automa%C3%A7%C3%A3o&fontSize=20&fontAlignY=65&fontColor=ffffff" width="100%" alt="Footer" />
 
 </div>
