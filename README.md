@@ -1,4 +1,4 @@
-<div align="center">
+# Iago Cunha
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:38bdf8&height=220&section=header&text=Iago%20Cunha&fontSize=54&fontAlignY=36&fontColor=ffffff&desc=Backend%20%C2%B7%20IA%20Generativa%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=16" width="100%" alt="Iago Cunha — Backend, IA Generativa, Automação" />
 
@@ -18,10 +18,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Python+%C2%B7+FastAPI+%C2%B7+Temporal+%C2%B7+Kafka;RAG+%C2%B7+Agentes+de+IA+%C2%B7+n8n;APIs+e+automa%C3%A7%C3%B5es+em+produ%C3%A7%C3%A3o" alt="Áreas de atuação" />
 
-</div>
-
----
-
 <a id="sobre"></a>
 
 ## Sobre
@@ -34,12 +30,12 @@ Trabalho com APIs, orquestração de agentes, pipelines RAG, autenticação corp
 
 📍 Fortaleza · Português nativo · Inglês B2 · Aberto a remoto
 
----
-
 ## Experiência profissional
 
 ### Sistema FIEC / Observatório da Indústria
-**Desenvolvedor Backend & IA** · `mar/2025 – atual`
+
+**Desenvolvedor Backend / IA** · `nov/2025 – atual`  
+**Estagiário de desenvolvimento** · `mar/2025 – nov/2025`
 
 | Foco | Entrega |
 | --- | --- |
@@ -48,23 +44,42 @@ Trabalho com APIs, orquestração de agentes, pipelines RAG, autenticação corp
 | Dados | Ingestão documental e busca semântica (Google Drive → embeddings → PostgreSQL/pgvector) |
 | Confiabilidade | Retry, backoff, DLQ; auth Google Workspace/AD com acesso por grupos |
 | Operação | Sustentação em 3 ambientes Kubernetes; telemetria do piloto: 47 cadastrados / 31 com uso · ~1,4 mi tokens |
+| Automação | n8n e APIs com redução medida de cerca de 80% nos erros operacionais dos processos automatizados |
 
 → [Case técnico](https://portfolio-oiagocunha.vercel.app/case-study/chat-platform) (código proprietário)
 
 ### IC Desenvolvimento
 **Desenvolvedor Full Stack** · `jun/2024 – atual`
 
-Projetos para clientes: MVPs, automações de rotina e integrações com APIs — da definição técnica ao frontend, backend e bancos.
+Sites, MVPs, automações e integrações com APIs. Atuação na definição técnica, frontend, backend e bancos de dados, do entendimento da necessidade à entrega.
 
 ---
 
 ## Projetos selecionados
 
-| Projeto | Resumo | Links |
-| --- | --- | --- |
-| **Job Match Alerts** | Comparação de currículos e vagas com LLMs, ranking explicável, Pytest e CI | [GitHub](https://github.com/oiagocunha/job-match-alerts) · [Demo](https://job-match-alerts.vercel.app/) |
-| **Public Data Monitor** | Pipeline assíncrono de notícias, API paginada, deduplicação, OpenAPI | [GitHub](https://github.com/oiagocunha/public-data-monitor) · [Swagger](https://public-data-monitor.onrender.com/docs) · [Case](https://portfolio-oiagocunha.vercel.app/case-study/public-data-monitor) |
-| **FV Crochê** | Catálogo com categorias e carrinho para encomendas | [Demo](https://fv-croche.vercel.app/) |
+### Job Match Alerts
+
+Comparação de currículos e vagas com LLMs: upload de PDF, importação de vaga por URL e ranking explicável de compatibilidade.
+
+`Python` `FastAPI` `PostgreSQL` `React` `TypeScript` `OpenAI` `Docker`
+
+[Repositório](https://github.com/oiagocunha/job-match-alerts) · [Demonstração](https://job-match-alerts.vercel.app/)
+
+### Public Data Monitor
+
+Pipeline de notícias públicas com API paginada, deduplicação e persistência idempotente.
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `asyncio` `Docker`
+
+[Repositório](https://github.com/oiagocunha/public-data-monitor) · [API / Swagger](https://public-data-monitor.onrender.com/docs) · [Case técnico](https://portfolio-oiagocunha.vercel.app/case-study/public-data-monitor)
+
+### FV Crochê
+
+Catálogo com categorias e carrinho para encomendas.
+
+`React` `TypeScript` `Tailwind CSS` `Vite`
+
+[Demonstração](https://fv-croche.vercel.app/)
 
 Portfólio completo: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.vercel.app/)
 
@@ -80,11 +95,11 @@ Portfólio completo: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocu
 
 | Área | Tecnologias |
 | --- | --- |
-| Backend | Python, FastAPI, TypeScript, Node.js, SQLAlchemy, Pytest |
+| Backend e testes | Python, FastAPI, TypeScript, Node.js, SQLAlchemy, Pytest |
 | IA e automação | LLMs, agentes, RAG, embeddings, pgvector, n8n |
-| Orquestração | Temporal, Kafka, asyncio, retry / DLQ |
+| Orquestração e mensageria | Temporal, Kafka, asyncio, retry e DLQ |
 | Dados | PostgreSQL, MongoDB, Redis |
-| Infra | Docker, Kubernetes, GitLab CI/CD, GitHub Actions |
+| Infraestrutura e entrega | Docker, Kubernetes, GitLab CI/CD, GitHub Actions |
 | Frontend | React, Next.js, Tailwind CSS |
 
 ---
@@ -106,6 +121,7 @@ Portfólio completo: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocu
 ## Formação
 
 - **Estácio** — Análise e Desenvolvimento de Sistemas · conclusão prevista dez/2026
+- **Digital College Brasil** — Desenvolvimento Web Full Stack · 192h, 2024
 - **Idiomas** — Português nativo · Inglês B2
 
 ---
@@ -136,13 +152,17 @@ Native Portuguese · English B2 · open to remote roles
 
 ## Experience
 
-### Sistema FIEC / Industry Observatory · Backend & AI · Mar 2025 – present
+### Sistema FIEC / Industry Observatory
+
+**Backend / AI Developer** · Nov 2025 – present  
+**Development Intern** · Mar 2025 – Nov 2025
 
 - OpenAI-compatible gateway connecting LibreChat to corporate agents through Temporal (SSE)
 - Routing across 4 specialized capabilities and 2 general models, each with its own RAG base
 - Document ingestion and semantic search (Google Drive → embeddings → PostgreSQL / pgvector)
-- n8n/API automations; retries, backoff, DLQ; Google Workspace/AD auth with group-based access
+- Retries, backoff, DLQ; Google Workspace/AD auth with group-based access
 - Support across 3 Kubernetes environments; pilot telemetry: 47 registered / 31 with usage · ~1.4M tokens
+- n8n/API automations with a measured reduction of approximately 80% in operational errors
 
 [Case study](https://portfolio-oiagocunha.vercel.app/en/case-study/chat-platform) (proprietary codebase)
 
@@ -155,6 +175,10 @@ Client work: MVPs, workflow automations, and API integrations — from planning 
 - **[Job Match Alerts](https://github.com/oiagocunha/job-match-alerts)** — résumé/job matching with LLMs · [demo](https://job-match-alerts.vercel.app/)
 - **[Public Data Monitor](https://github.com/oiagocunha/public-data-monitor)** — async news pipeline · [Swagger](https://public-data-monitor.onrender.com/docs)
 - **[FV Crochê](https://fv-croche.vercel.app/)** — product catalog with order cart
+
+## Education
+
+Systems Analysis and Development at Estácio, expected completion December 2026. Full Stack Web Development at Digital College Brasil, 192 hours, 2024.
 
 ## Contact
 
