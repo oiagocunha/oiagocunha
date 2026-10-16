@@ -79,7 +79,31 @@ Catálogo com categorias e carrinho para encomendas.
 
 `React` `TypeScript` `Tailwind CSS` `Vite`
 
-[Demonstração](https://fv-croche.vercel.app/)
+[Site](https://fv-croche.vercel.app/)
+
+### LeadPilot
+
+Demonstração: pedido de orçamento vira fila com protocolo, status e histórico. Os dados ficam só no navegador.
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+[Demonstração](https://lead-pilot-ruddy.vercel.app/)
+
+### AgendaFlow
+
+Demonstração de agenda para barbearia. O cliente escolhe serviço, profissional e horário; a equipe confirma, cancela ou reagenda.
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+[Demonstração](https://agenda-flow-three.vercel.app/)
+
+### AssistIA
+
+Demonstração de atendimento. As respostas saem dos documentos fictícios da Atlas, com a fonte citada. Se o trecho não está na base, o sistema avisa.
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+[Demonstração](https://assist-ia.vercel.app/)
 
 Portfólio completo: [portfolio-oiagocunha.vercel.app](https://portfolio-oiagocunha.vercel.app/)
 
@@ -168,13 +192,16 @@ Native Portuguese · English B2 · open to remote roles
 
 ### IC Desenvolvimento · Full Stack · Jun 2024 – present
 
-Client work: MVPs, workflow automations, and API integrations — from planning through frontend, backend, and databases.
+Client work: websites, MVPs, workflow automations, and API integrations — from planning through frontend, backend, and databases.
 
 ## Selected projects
 
-- **[Job Match Alerts](https://github.com/oiagocunha/job-match-alerts)** — résumé/job matching with LLMs · [demo](https://job-match-alerts.vercel.app/)
-- **[Public Data Monitor](https://github.com/oiagocunha/public-data-monitor)** — async news pipeline · [Swagger](https://public-data-monitor.onrender.com/docs)
-- **[FV Crochê](https://fv-croche.vercel.app/)** — product catalog with order cart
+- **[Job Match Alerts](https://github.com/oiagocunha/job-match-alerts)** — Compares résumés and job posts with LLMs: PDF upload, job import by URL, and an explained compatibility ranking · [demo](https://job-match-alerts.vercel.app/)
+- **[Public Data Monitor](https://github.com/oiagocunha/public-data-monitor)** — Public-news pipeline with a paginated API, URL deduplication, and idempotent storage · [Swagger](https://public-data-monitor.onrender.com/docs)
+- **[FV Crochê](https://fv-croche.vercel.app/)** — production storefront with categories, cart, and WhatsApp checkout, plus a shipping quote
+- **[LeadPilot](https://lead-pilot-ruddy.vercel.app/)** — demo: a quote request goes into a queue with a protocol number, status, and history; data stays in the browser
+- **[AgendaFlow](https://agenda-flow-three.vercel.app/)** — demo barbershop booking: the client picks service, professional, and time; the team confirms, cancels, or reschedules
+- **[AssistIA](https://assist-ia.vercel.app/)** — customer-support demo: answers come from Atlas's fictional documents, with the source cited; if the excerpt isn't in those documents, the system says so
 
 ## Education
 
@@ -190,6 +217,6 @@ Systems Analysis and Development at Estácio, expected completion December 2026.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:38bdf8&height=120&section=footer&text=Backend%20%C2%B7%20IA%20%C2%B7%20Automa%C3%A7%C3%A3o&fontSize=20&fontAlignY=65&fontColor=ffffff" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:38bdf8&height=120&section=footer&text=Backend%20%C2%B7%20IA%20%C2%B7%20Automa%C3%A7%C3%A3o&fontSize=20&fontAlignY=65&fontColor=ffffff" width="100%" alt="Backend, IA e Automação" />
 
 </div>
